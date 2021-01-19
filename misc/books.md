@@ -12,5 +12,18 @@
 
 
 
+### R Programming
+
+- [https://www.bigbookofr.com/index.html](https://www.bigbookofr.com/index.html)
+
+
+
+### Statistics
+
+- [An Introduction to Statistical Learning](https://statlearning.com/)
+
+- [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+
 
 
