@@ -1,5 +1,6 @@
-### Catalogue of interesting resources.
+## Catalogue of interesting resources.
 
 - aws - aws resources
-- misc - miscellaneous (free books)
-- data - data related (ML, Math, Statistics)
+- azure - azure resources
+- books - high-quality free books, data-related books
+- data - data related (Validation, ML, Math, Statistics, visualization)
