@@ -11,6 +11,7 @@
 
 - AUS gov data - https://data.gov.au/
 - To request access to data - https://datagovau.ideascale.com/
+- AUS ABS data API - https://api.gov.au/service/715cdfd0-4742-402e-8729-086a7fd42a51
 - Platform to share data, mainly used by gov institutions - CKAN - https://ckan.org/about/instances/
     - Impressive implementation of CKAN - https://www.europeandataportal.eu/en
 - GitHub listing of datasets -  https://github.com/awesomedata/awesome-public-datasets
@@ -39,10 +40,5 @@
 - Apache Superset - BI visualization web app - https://github.com/apache/superset
 - dataisbeautiful reddit sub - https://www.reddit.com/r/dataisbeautiful/
 
-
-
-## Toolbelt
-
-- Franchise - SQL web client/Notebook interface - https://franchise.cloud/app/    or use docker  https://hub.docker.com/r/binakot/franchise
 
 
