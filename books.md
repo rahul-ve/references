@@ -10,6 +10,8 @@
 - Notes collated/curated from stackoverflow posts on different languages/topics [https://goalkicker.com/](https://goalkicker.com/)
     - To get all in one go:  [http://books.goalkicker.com/all.zip](http://books.goalkicker.com/all.zip)
 
+- Free programming books, chearsheets; `awesome` repo - https://github.com/EbookFoundation/free-programming-books
+
 
 
 ## R Programming

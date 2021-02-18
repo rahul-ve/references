@@ -38,7 +38,8 @@
 ## Visualization
 
 - Apache Superset - BI visualization web app - https://github.com/apache/superset
+  - https://howchoo.com/kubernetes/how-to-install-apache-superset-on-a-gke-kubernetes-cluster
 - dataisbeautiful reddit sub - https://www.reddit.com/r/dataisbeautiful/
-
+- Build data apps in Python - streamlit - https://github.com/streamlit/streamlit
 
 
